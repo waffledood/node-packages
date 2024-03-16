@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "sample node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.4",
+    "axios": "^1.6.4",
+    "debug": "^2.6.9",
+    "follow-redirects": "^1.15.6",
+    "fresh": "^0.5.2",
+    "log4js": "^6.4.0",
+    "mime": "^1.4.1",
+    "minimist": "^1.2.6",
+    "moment": "^2.29.4",
+    "ms": "^2.0.0",
+    "negotiator": "^0.6.1",
+    "semver": "^5.7.2",
+    "tough-cookie": "^4.1.3"
+  }
+}
