@@ -1,6 +1,6 @@
 {
-  "name": "helloworld",
-  "version": "1.0.0",
+  "name": "node",
+  "version": "0.0.0",
   "description": "sample node project",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "async": "^2.6.4",
     "axios": "^1.6.4",
     "debug": "^2.6.9",
+    "easycrypto": "^0.1.1",
     "follow-redirects": "^1.15.6",
     "fresh": "^0.5.2",
     "log4js": "^6.4.0",
